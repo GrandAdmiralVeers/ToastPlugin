@@ -1,0 +1,8 @@
+name: ToastPlugin
+version: 1.0
+main: com.example.toastplugin.ToastPlugin
+api-version: 1.21
+commands:
+  toast:
+    usage: /toast <frame> <material> <text>
+    description: Show a custom advancement toast
